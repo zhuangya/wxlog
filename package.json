@@ -1,0 +1,18 @@
+{
+  "name": "wxlog",
+  "version": "1.0.0",
+  "description": "logger for wechat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "wechat"
+  ],
+  "author": "Ya Zhuang <zhuangya@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "tape": "^4.6.2",
+    "test-console": "^1.0.0"
+  }
+}
